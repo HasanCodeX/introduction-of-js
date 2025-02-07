@@ -11,4 +11,4 @@ console.log(isRich);
 var passed = false;
 console.log(passed);
 console.log(typeof passed);
-console.log(typeof isRich);
+console.log(typeof isRich); 
